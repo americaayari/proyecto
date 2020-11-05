@@ -1,0 +1,19 @@
+#contenedor{width: 1000px; background-color: #BA75FF; margin-left: auto; margin-right: auto;}
+header{width: 1000px; height: 80px; text-align: center;}
+.menu{width: 125px; height: 60px; float: left;}
+nav{width: 1000px; height: 80px;}
+.matem{width: 500px; height: 600px; float: left;}
+h2{font-family: Tahoma; font-size: 30px; text-align: center;}
+h1{font-family: Arial; font-size: 50px; text-align: center; color: white;}
+#cuerpo{width: 1000px; background-color: #9532FF; margin-left: auto; margin-right: auto;}
+.quimica{width: 1000px; height: 700px;}
+.quim{width: 1000px; height: 300px;}
+.fce{width: 1000px; height: 850px;}
+h3{font-family: Calibri; font-size: 20px; text-align: center; color: white;}
+.comment{width: 900px; height: 1200px;}
+.center{margin: auto;}
+.fisic{width: 900px; height: 1250px;} 
+img{display: block; margin-right: auto; margin-left: auto;}
+.histo{width: 900px; height: 300px;}
+.histo1{width: 900px; height: 350px;}
+body{background-color: #3446F0;}
